@@ -13,7 +13,7 @@ function IDCard () {
             ...data,
                 {
             name: 'Nina',
-            lastName: 'Maric',
+            lastName: 'Marić',
             age: 25
                 }
             ]);
